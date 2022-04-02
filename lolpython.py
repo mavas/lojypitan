@@ -4,8 +4,8 @@ Converts from Lojban to Python then optionally runs the Python.
 
 This package depends on PLY -- http://www.dabeaz.com/ply/
 
-Written by David Kilgore
-26 October 2015, San Jose, California
+Written by mavas
+26 October 2015
 
 This software is in the public domain.  For details see:
   http://creativecommons.org/licenses/publicdomain/
